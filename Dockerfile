@@ -1,5 +1,5 @@
 FROM node:8-alpine
-MAINTAINER oldiy <oldiy@163.com>
+MAINTAINER chchia <ch_chia@msn.com>
 
 RUN apk update  && \
 	apk add --no-cache --update git  && \
